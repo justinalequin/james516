@@ -5,6 +5,7 @@ body{
     align-items: center;
     transition: all 1s;
     background-color: lightgray;
+    margin-bottom: 50px;
 }
 
 .stationary-section{
@@ -59,6 +60,7 @@ color: lightgray;
    background-color: #EDEDED;
    box-shadow: lightgray 2px 2px 2px;
    border-radius: 3px;
+   padding-bottom: 50px;
 }
 
 
